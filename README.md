@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Master in CS student with biomedical knowledge
 ----------------------------------------------
 
-I've learn code for 2 years mainly in java and python during my master course, and i love to self learn in full stack application to develop a
+I've learn code for 2 years mainly in java and python during my master course, and i love to self learn in full stack application to develop a website
 
 * 🌍  I'm based in WOKINGHAM
 * ✉️  You can contact me at [dennismyw@gmail.com](mailto:dennismyw@gmail.com)
